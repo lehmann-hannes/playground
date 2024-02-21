@@ -1,3 +1,6 @@
+![example workflow](https://github.com/lehmann-hannes/playground/actions/workflows/build.yml/badge.svg)
+
+
 Here is a simple flow chart:
 
 ```mermaid
